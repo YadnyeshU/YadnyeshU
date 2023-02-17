@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YadnyeshU
 - 👀 I’m interested in solving Business Problems.
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I completed learning Data Analytics
 - 📫 You can reach me at yadnyeshu7@gmail.com
 
 <!---
