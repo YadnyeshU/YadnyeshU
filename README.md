@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Yadnyesh
 - 👀 I’m interested in solving Business Problems.
 - 🌱 I completed learning Business Analytics
+- Currently Pursuing PGDM in Research and Business Analytics from Welingkar, Bengaluru
 - 📫 You can reach me at yadnyeshu7@gmail.com
 - Looking for a Job Opportunity Regarding the same
 <!---
